@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">RGBtoHex</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="redLabel">Red Value</string>
+    <string name="blueLabel">Blue Value</string>
+    <string name="greenLabel">Green Value</string>
+    <string name="hexTitle">Hex Value</string>
+    <string name="convertButtonText">Convert</string>
+
+</resources>
